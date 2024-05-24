@@ -3,7 +3,7 @@
 همیار از API سرویس Gemini که برای گوگل می باشد استفاده می کند. این سرویس رایگان می باشد اما به دلیل تحریمات نمی توان با ip ایران از آن استفاده کرد و فعلا زبان فارسی را پشتیبانی نمی کند.
 به زودی دستیار به صورت وبسایت در دسترس قرار می گیرد و می توانید بدون نیاز به تحریم شکن یا VPN از آن استفاده کنید.
 
-<video src="[path/to/video.mp4](https://raw.githubusercontent.com/mohammadmoein2007/Hamyar/main/intro.mp4)" width="320" height="240" controls></video>
+[![asciicast](https://raw.githubusercontent.com/mohammadmoein2007/Hamyar/main/cover.jpg)](https://raw.githubusercontent.com/mohammadmoein2007/Hamyar/main/intro.mp4)
 
 ----------------------------------------------------------------------
 جهت استفاده از این برنامه مراحل زیر را با استفاده از تحریم شکن یا VPN انجام دهید (لوکیشن پیشنهادی آمریکا یا ترکیه):
